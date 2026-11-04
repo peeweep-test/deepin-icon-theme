@@ -1,3 +1,12 @@
+deepin-icon-theme (2026.11.04) unstable; urgency=medium
+
+  * chore: Sync by
+    https://github.com/linuxdeepin/.github/commit/88706fa723e3771211cb07
+    81d3d97fd4a6cd2a68
+  * fix(ci): pass App secrets to changelog workflow
+
+ -- Zhao Fangxun <zhaofangxun@uniontech.com>  Wed, 04 Nov 2026 11:44:07 +0800
+
 deepin-icon-theme (2026.02.27) unstable; urgency=medium
 
   * feat: add more cursor sizes
