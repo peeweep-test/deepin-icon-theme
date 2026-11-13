@@ -1,3 +1,9 @@
+deepin-icon-theme (2026.11.06) unstable; urgency=medium
+
+  * Release 2026.11.06
+
+ -- DDE Test <dde-test@example.com>  Fri, 13 Nov 2026 14:09:30 +0800
+
 deepin-icon-theme (2026.11.05) unstable; urgency=medium
 
   * Merge pull request #1 from peeweep-test/automation/update-
