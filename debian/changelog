@@ -1,3 +1,11 @@
+deepin-icon-theme (2026.11.05) unstable; urgency=medium
+
+  * Merge pull request #1 from peeweep-test/automation/update-
+    changelog/2026.11.04
+  * chore: Sync by
+
+ -- DDE Test <dde-test@example.com>  Fri, 13 Nov 2026 10:19:15 +0800
+
 deepin-icon-theme (2026.11.04) unstable; urgency=medium
 
   * chore: Sync by
